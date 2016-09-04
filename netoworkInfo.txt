@@ -1,0 +1,8 @@
+# ifconfig
+inet addr:192.168.0.109  
+Bcast:192.168.0.255  
+Mask:255.255.255.0
+
+# netstat -nr
+Gateway 192.168.0.1
+Destination 192.168.0.0
